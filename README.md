@@ -35,6 +35,10 @@ GPIO_PORTF_DEN_R
 now becomes 
 GPIO_PORTF_AHB_DEN_R
 
+4/28/2016 : Lesson 8- Functions and the Stack.....
+- if nothing else,   learn about the stack!
+
+
 
 
 
