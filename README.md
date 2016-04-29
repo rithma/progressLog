@@ -10,16 +10,35 @@ Jan 22, 2016
 Started the eDx course "embedded systems: shape the world", led by Jonathon Valvano & prof. Yeraballi. at UT Austin. (ARM based course)
 (around the same time)  began Elliot Williams book  Make: AVR programming.
 
-
-
+2/01/2016 : Started an online course "the C++ institute", after realizing I dont know fuck all about c programming.  this is 
+  an awesome course.   Very well explained. 
 
 4/18/2016 : Shit or get of the pot - started "Delicious Max Tutorials". I need to stop being afraid of the things that intimidate me. 
   Max is easy as shit to get into.  I looked into this software 12 years ago and shyed away.  Not anymore.  
   The "karplus strong' Max/MSP tutorial got my machine properly making noise, 
   and when I went home, I created an LFO output with Motu ultralight with a proper 10v PtP signal for controlling my eurorack. 
 
-4/28/2016 : Completed up to Lesson 6: Bitwise operators in C of Embedded Systems Programming (Quantam Leaps youtube)
+4/26/2016 : Completed up to Lesson 6: Bitwise operators in C of Embedded Systems Programming (Quantam Leaps youtube)
   this guy is good. Explaining deep Assembly functions in IAR, very detailed descript. 
+  
+4/28/2016 : Lesson 7: Arrays & pointer arithmetic.
+
+QUESTIONS STILL:
+-research the difference between GPIO_PORTF_AHB_DATA_BITS_R and GPIO_PORTF_DATA_R
+GPIOHBCTL - GPIO high performance bus control
+to switch to AHB, the faster, better bus,..
+
+SYSCTL_GPIOHBCTL_R |= (1U << 5)
+-setting bit 5 in this register switches GPIOF into AHB mode. 
+then all registers in program must be changed to reflect.  
+GPIO_PORTF_DEN_R
+now becomes 
+GPIO_PORTF_AHB_DEN_R
+
+
+
+
+
 
 
 
