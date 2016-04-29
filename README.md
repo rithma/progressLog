@@ -35,6 +35,9 @@ GPIO_PORTF_DEN_R
 now becomes 
 GPIO_PORTF_AHB_DEN_R
 
+- honestly I need to rewatch lesson 7- using pointer arrays to write to the LED is a bit confusing. 
+and why did he create 2 counters?     counter[1],[2] WTF
+
 4/28/2016 : Lesson 8- Functions and the Stack.....
 - if nothing else,   learn about the stack!
 
