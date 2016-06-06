@@ -1,3 +1,26 @@
+/*
+SO HERES THE DEAL - 
+Im trying to get this situation up & running on my Nucleo STM446 board.  
+Tried several different versions of Serial Moniters, nothing coming back over the UART lines.
+
+Ive testec the same code (minus all the boilerplate bullshit) on Mbed's compiler and it works fine.  
+adds up them shitz. 
+
+****************HERES WHAT I THINK IS WRONG**********************
+
+the 'cookbook' code examples are written for a different board,  the $350 Keil board.  
+Its still a STM32F4xx so most of the drivers work, but i think
+
+
+THE CLOCK SPEED IS JACKED.   which will fuck up UART transmission. 
+
+Please adjust PLL setup and Systemclock to the f446 board accordingly!   
+Or get a Nucleo or Disco board tht matches the processor inside the 
+MCBSTM32F400   eval board
+ 
+ 
+ 
+ 
  /***************************************************
  * Recipe:   addTwoNums_c3v0
  * File:     addTwoNums.c 
