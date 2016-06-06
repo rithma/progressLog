@@ -41,6 +41,22 @@ and why did he create 2 counters?     counter[1],[2] WTF
 4/28/2016 : Lesson 8- Functions and the Stack.....
 - if nothing else,   learn about the stack!
 
+6/5/2016 : 
+Just an update.
+-Sucesses:  operation of ADC well & good on TM4C and STM, and AVR boards. Operation of Nokia 5110 display graphics & text with TM4 MCU good. Learning is daily, slow, rewarding & frustrating. 
+MBED platform offers the most bang for my buck.   Libraries easily tooled into the nucleo board & tested, all with their free online IDE.
+Still some trouble compiling more function into my chips with Keil,  it seems as though whenever I try to mix flavors of what I've learned, for instance a functioning ADC initialization from Ying Bai's IEEE book, and a UART init from fucking Valvano's class, 
+a bunch of shit hits the fan, the wind gets knocked out of my sails, and I go home all mopey.  Oh well, day by day the tiny little breakthroughs keep me moving along. 
+
+So Far:
+-Arm Coretex M4 Cookbook - 29%
+-Fucking Valvano's class - skipping around, but SUCESSFULLY debugged lab 4, which had me completely baffled and clueless a couple months
+ago,,,,,, who says old dudes cant learn new shit???  Felt real good.
+-Ying Bai's IEEE book - chap 4 or 5 ADC stuff... really explanitory but hard to focus unless I got large uninterrupted time.
+-Miro Samek Youtube course - Lesson 14 startup code. Love this guy. Love Him. 
+
+
+
 
 
 
