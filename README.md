@@ -61,6 +61,8 @@ ago,,,,,, who says old dudes cant learn new shit???  Felt real good.
 Richard Buckland.       Amazing things from that guy. 
 "Everything you need to know about pointers"  
 
+Starting to dive into CMSIS programming in Trevor Martin's book
+
 
 
 
