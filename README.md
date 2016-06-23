@@ -55,6 +55,35 @@ ago,,,,,, who says old dudes cant learn new shit???  Felt real good.
 -Ying Bai's IEEE book - chap 4 or 5 ADC stuff... really explanitory but hard to focus unless I got large uninterrupted time.
 -Miro Samek Youtube course - Lesson 14 startup code. Love this guy. Love Him. 
 
+6/22/2016 -  The learning continues.  I am a good way into "Embedded Systems" by Elicia White, 
+    Starting a book called "Understanding and using pointers" ...  really good clusterfuck.
+-found a new Professor on Youtube,  called 
+Richard Buckland.       Amazing things from that guy. 
+"Everything you need to know about pointers"  
+
+
+
+
+
+
+
+Vids Watched:
+
+Quantam leaps:
+lessons 1 thru 17
+
+
+Richard Buckland  
+Lecture 10:  Functions
+(8.1 & 8.2 high level computing)
+
+
+
+EEVBlog
+EEV 54 when i was young
+
+
+
 
 
 
