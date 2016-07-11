@@ -63,6 +63,30 @@ Richard Buckland.       Amazing things from that guy.
 
 Starting to dive into CMSIS programming in Trevor Martin's book
 
+7/9/2016
+Created a nice clean Template for tm4c123 in Keil uVision.  Stuff Works,  feeling inspired.
+
+7/10/2016
+AllAboutEE Lesson 18 UART to PC!!!   got it up & running clean through CoolTerm, and with garbage in PuTTy
+Built and loaded through IAR.     When I try to dump the same code in with Keil uVision,   all I get is little 
+bleeps of Garbage on PuTTy, and  this kind of thing on coolterm.  
+ˇHBÇÄàÄ.ùÇÄàÅ.ûÇÄàÄ.ˇ
+
+Got my teeth into Lab 8_6 in Ying Bai's book,  flopping hard at the 
+             UARTIntRegister()  function.     
+             It requires a pointer to a function, fucker. 
+             
+
+
+Found a guy online with some great tuts. 
+***Luis Electronic Projects***
+or something similar.   
+His RGB PWM code is working beautifully on my LunchPad.   
+
+--Setting up the Global Include path in Keil has smoothed things out a bit.
+
+
+Would love to set up something that will display ADC values over UART,,,,,,,,,,
 
 
 
@@ -78,7 +102,8 @@ lessons 1 thru 17
 Richard Buckland  
 Lecture 10:  Functions
 (8.1 & 8.2 high level computing)
-
+Lecture 21:  All you need to know about pointers
+Lecture 22:  The most important thing
 
 
 EEVBlog
