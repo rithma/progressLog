@@ -75,12 +75,14 @@ bleeps of Garbage on PuTTy, and  this kind of thing on coolterm.
 Got my teeth into Lab 8_6 in Ying Bai's book,  flopping hard at the 
              UARTIntRegister()  function.     
              It requires a pointer to a function, fucker. 
-             
+****************************look:
+pg 687      step 14      please help me.....
 
 
 Found a guy online with some great tuts. 
 ***Luis Electronic Projects***
-or something similar.   
+ TM4C123-Launchpad-Examples/RGB PWM/main.c 
+ LuisAlfonso95
 His RGB PWM code is working beautifully on my LunchPad.   
 
 --Setting up the Global Include path in Keil has smoothed things out a bit.
