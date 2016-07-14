@@ -79,6 +79,35 @@ Got my teeth into Lab 8_6 in Ying Bai's book,  flopping hard at the
 pg 687      step 14      please help me.....
 
 
+7/13/2016  HOLY SHIT I made it over the UART hump.     Using a taylored few examples online,   I now print this to the terminal:
+System Clock Speed:  80000000
+System Clock Speed:  200008a8
+  Type: Internal Temperature Sensor
+  Samples: One
+  Update Rate: 250ms
+  Input Pin: Internal temperature sensor
+
+Temperature =  26*C or  78*F, raw ADC val is:2002, 394
+FUCK YEAH  FUCK YEAH. 
+
+UARTprintf is my friend.    Always Check baud rates.   Today goes in the win column.
+
+NEW GOALS:
+explore the serial comms chapter a little deeper (UTX edX), 
+get started in the finite state machine stuff, or other new topic.  
+
+
+
+
+
+
+
+
+
+
+
+
+
 Found a guy online with some great tuts. 
 ***Luis Electronic Projects***
  TM4C123-Launchpad-Examples/RGB PWM/main.c 
